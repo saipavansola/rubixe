@@ -1,0 +1,23 @@
+
+.image-src{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 40px;
+    width:150px;
+}
+
+.bg-con{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+
+.nav-items{
+    display: flex;
+    align-items: flex-end;
+    list-style: none;
+}
+.item{
+    margin: 10px;
+}

@@ -1,0 +1,24 @@
+
+.footer-con{
+    display: flex;
+    justify-content: space-around;
+}
+
+.all-sec{
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.about-sec{
+    width: 45%;
+}
+
+.footer-bottom{
+    background-color: black;
+    color: white;
+    padding-top: 3px;
+    height: 50px;
+    text-align: center;
+}
+

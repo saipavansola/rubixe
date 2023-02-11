@@ -1,0 +1,9 @@
+
+.tot-con{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}

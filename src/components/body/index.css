@@ -1,0 +1,62 @@
+.reg-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 25px;
+    border: 1px solid black;
+    width: 65%;
+    border-radius: 10px;
+    margin-left: 20%;
+    height: 250px;
+}
+
+.con1-image{
+    width: 100%;
+}
+
+.my-con{
+    margin-left: 0px;
+}
+
+.inp-con{
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-top: 3px;
+}
+.con3-image{
+    width: 100%;
+}
+.con-2{
+    display: flex;
+    background-color: azure;
+    margin: 10px;
+}
+.con-3{
+    background-color: #ff00ff;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 15px;
+}
+.button{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+.input-label{
+    margin-top: 15px;
+}
+
+.icon{
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 3px;
+    color: blue;
+}
